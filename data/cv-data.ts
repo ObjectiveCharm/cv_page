@@ -71,9 +71,9 @@ export const cvData: CVData = {
           { name: "Swift", level: 4 },
           { name: "Java", level: 3 },
           { name: "Python", level: 4 },
-          { name: "Linux", level: 3 },
-          { name: "Rust", level: 3 },
-          { name: "Data Structures & Algorithms", level: 4 },
+          { name: "Linux", level: 4 },
+          { name: "Rust", level: 4 },
+          { name: "Data Structures & Algorithms", level: 3 },
         ],
       },
       personal: {
