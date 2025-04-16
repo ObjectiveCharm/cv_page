@@ -92,10 +92,10 @@ export const cvData: CVData = {
         items: [
           { name: "Swift", level: 4 },
           { name: "Java", level: 3 },
-          { name: "Python", level: 4 },
-          { name: "Linux", level: 3 },
-          { name: "Rust", level: 3 },
-          { name: "Datenstrukturen & Algorithmen", level: 4 },
+          { name: "Python", level: 3 },
+          { name: "Linux", level: 4 },
+          { name: "Rust", level: 4 },
+          { name: "Datenstrukturen & Algorithmen", level: 3 },
         ],
       },
       personal: {
@@ -103,7 +103,7 @@ export const cvData: CVData = {
         items: [
           { name: "Zuverlässigkeit", level: 5 },
           { name: "Lernbereitschaft", level: 5 },
-          { name: "Begeisterung & Ermutigung", level: 4 },
+          { name: "Begeisterung & Ermutigung", level: 5 },
         ],
       },
     },
@@ -119,7 +119,7 @@ export const cvData: CVData = {
           description:
             "An implementation of Radix Tree, a compact data structure (Patricia-Trie/Radix Tree) for fast string-based search, with space efficiency.",
           url: "https://github.com/ObjectiveCharm/CompactPrefixRadix",
-          technologies: ["Swift", "Data Structures", "Algorithms"],
+          technologies: ["Rust", "Data Structures", "Algorithms"],
         },
         {
           title: "CNS Seminar Research",
@@ -142,7 +142,7 @@ export const cvData: CVData = {
           description:
             "Eine Umsetzung von Radix Baum, ein Kompakte Datenstruktur (Patricia-Trie/Radix Baum) für schnell Stringbasiert Such, mit Raumeffizienz.",
           url: "https://github.com/ObjectiveCharm/CompactPrefixRadix",
-          technologies: ["Swift", "Datenstrukturen", "Algorithmen"],
+          technologies: ["Rust", "Datenstrukturen", "Algorithmen"],
         },
         {
           title: "CNS Seminar Forschung",
